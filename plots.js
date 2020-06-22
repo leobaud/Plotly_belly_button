@@ -68,10 +68,10 @@ function buildCharts(sample){
   var data = [graph1];
   var layout = {
       margin: {
-      l: 100,
+      l: 80,
       r: 60,
-      t: 10,
-      b: 50
+      t: 5,
+      b: 90
     }
   };
 
